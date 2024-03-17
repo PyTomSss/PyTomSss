@@ -1,16 +1,40 @@
-### Hi there 👋
 
-<!--
-**PyTomSss/PyTomSss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my profile !
 
-Here are some ideas to get you started:
+## About Me 
+I am currently pursuing a Master's degree at ENSAE (Institut Polytechnique de Paris) and enrolled in a double diploma with HEC Paris. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus this year has been on Data Science and Machine Learning. I have found the theoretical exploration of these topics highly engaging, and I am now keen to apply this knowledge through practical projects, particularly those with applications in economics.
+
+
+
+![Logo](data:image/png;base64,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)
+
+
+
+
+## 🔗 Links and Contact
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-rossa-03aa2b212/)
+
+E-mail : tom.rossa@ensae.fr
+
+
+## 🛠 Skills
+Python - Webscrapping, Pandas, Numpy, Sklearn, Pytorch...
+
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+Stata - Statistical Analysis & Econometrics
+
+[![Stata Badge](https://img.shields.io/badge/Stata-20CCB6?style=for-the-badge&logo=stata&logoColor=white)](https://www.stata.com/)
+
+SQL - Database Management
+
+[![SQL Badge](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+
+
+## Projects
+
+## Work in progress
+
+
