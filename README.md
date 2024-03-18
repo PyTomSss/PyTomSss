@@ -8,8 +8,7 @@ My focus this year has been on Data Science and Machine Learning. I have found t
 
 <div style="display:flex; flex-direction: row;">
     <img align="left" width="200" height="150" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png">
-
-###
+</div>
 
 ## 🔗 Links and Contact
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-rossa-03aa2b212/)
