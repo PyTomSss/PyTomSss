@@ -4,7 +4,7 @@
 ## About Me 
 I am currently pursuing a Master's degree at ENSAE (Institut Polytechnique de Paris) and enrolled in a double diploma with HEC Paris. 
 
-My focus this year has been on Data Science and Machine Learning. I have found the theoretical exploration of these topics highly engaging, and I am now keen to apply this knowledge through practical projects, particularly those with applications in economics.
+My focus this year has been on Data Science and Machine Learning. I have found the theoretical exploration of these topics highly engaging, and I am now keen to apply this knowledge through practical projects.
 
 <div style="display:flex; flex-direction: row;">
   <img align="left" width="200" height="150" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png">
