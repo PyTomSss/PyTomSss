@@ -2,9 +2,9 @@
 # Welcome to my profile !
 
 ## About Me 
-I am currently pursuing a Master's degree at ENSAE (Institut Polytechnique de Paris) and enrolled in a double diploma with HEC Paris. 
+I am currently pursuing a Master's degree at ENSAE (Institut Polytechnique de Paris) as part of a double diploma with HEC Paris, while simultaneously completing a Research Master's in Applied Mathematics and Machine Learning (MVA) at ENS Paris-Saclay.
 
-My focus this year has been on Data Science and Machine Learning. I have found the theoretical exploration of these topics highly engaging, and I am now keen to apply this knowledge through practical projects.
+My focus this year has been on Computational Statistics, Data Science and Machine Learning. I have found the theoretical exploration of these topics highly engaging, and I am now keen to apply this knowledge through practical projects.
 
 <div style="display:flex; flex-direction: row;">
   <img align="left" width="200" height="150" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png">
@@ -34,10 +34,18 @@ SQL - Database Management
 ## ✅ Projects
 
 - Predicting the success of a video game based on the data available at its release - Python Project at ENSAE (here)
+  
+- Reproduced and analyzed numerical experiments from “On Multilevel Monte Carlo Unbiased Gradient Estimation For Deep Latent
+Variable Models” (Y. Shi & R. Cornish), comparing unbiased gradient estimators for LVMs in Stochastic Gradient Descent (here)
+
+- Linear time series project as part of a course at ENSAE. Involves the analysis and modeling of a time series using data from INSEE (here)
+
 
 ## 💪 Work in progress
 
 - “Characterization of the overfitting risk in financial assets performance prediction models”, supervised by Philippe Dumont - ENSAE’s Applied Statistics project (here)
 
 - "Learning radiological and oncological anatomy through few-shot learning" - Data Challenge ENS by Raidium (here)
+
+- “Interacting Langevin diffusions and their applications in Bayesian statistics”, supervised by Professor O. Deniz Akyildiz at Imperial College (here)
 
