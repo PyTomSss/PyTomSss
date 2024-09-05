@@ -7,9 +7,9 @@ I am currently pursuing a Master's degree at ENSAE (Institut Polytechnique de Pa
 My focus this year has been on Computational Statistics, Data Science and Machine Learning. I have found the theoretical exploration of these topics highly engaging, and I am now keen to apply this knowledge through practical projects.
 
 <div style="display:flex; flex-direction: row;">
-  <img align="left" width="200" height="150" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png">
+  <img align="left" width="300" height="150" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png">
   <img align="center" width="250" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HEC_Paris.svg/2560px-HEC_Paris.svg.png">
-  <img align="right" width="250" height="150" src="https://www.google.com/imgres?q=mva%20image%20ens&imgurl=https%3A%2F%2Fyt3.googleusercontent.com%2Fytc%2FAIdro_mQMe50yUqK83NdfBhYOmLfcZT1KyY27VXiPMPoRHfm1Q%3Ds900-c-k-c0x00ffffff-no-rj&imgrefurl=https%3A%2F%2Fm.youtube.com%2F%40mastermva3344&docid=Z5ZItru4HGGJ-M&tbnid=ElH2S4lj0d-9pM&vet=12ahUKEwiK3vTwkaqIAxULVUEAHTwLAMwQM3oECBsQAA..i&w=900&h=900&hcb=2&ved=2ahUKEwiK3vTwkaqIAxULVUEAHTwLAMwQM3oECBsQAA">
+  <img align="right" width="400" height="150" src="https://upload.wikimedia.org/wikipedia/fr/f/fb/LOGOS_ENS-PARIS-SACLAY_UPSAY_2.png">
 </div>
 
 ## 🔗 Links and Contact
