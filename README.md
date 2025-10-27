@@ -56,7 +56,7 @@ Between 2021 and 2025, I completed the *Grande École* program at ENSAE, as part
 ### **Centre de Mathématiques Appliquées (CMAP)** – *École Polytechnique, France*  
 **Supervisors:** Prof. Charles-Albert Lehalle & Prof. Huyên Pham  
 
-**Project:** *Robust Learning of Market Impact in the Optimal Execution Problem*  
+**Project:** *Robust Learning of Mechanical Market Impact for Optimal Execution*  
 - Investigated the interplay between *optimal execution*, *market impact*, and *causal inference* in continuous-time double auction models.  
 - Developed *robust learning methods* for modeling the *mechanical market impact* in *limit order books*, combining the paradigms of **Learning Using Privileged Information** and **Distributionally Robust Optimization**.  
 ---
