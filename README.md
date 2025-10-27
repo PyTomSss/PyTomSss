@@ -1,6 +1,6 @@
-# Welcome to my Profile !
+# **Welcome to my Profile !**
 
-# About Me 
+## About Me 
 
 I am currently a **first-year PhD student** at the **University of Oxford**, within the **EPSRC Centre for Doctoral Training - StatML** ([StatML Cohort 2025](https://statml.io)), under the supervision of **Prof. Tom Rainforth**.  
 
@@ -39,7 +39,7 @@ Academic year 2024–2025, during which I strengthened my general programming sk
 
 **Master in Engineering, ENSAE Paris** (*Institut Polytechnique de Paris*), specialization in **Statistics and Machine Learning**  
 
-Between 2021 and 2025, I completed the *Grande École* program at ENSAE, within the DSSA (Data Science, Statistics, and Learning) specialization. Main courses included:
+Between 2021 and 2025, I completed the *Grande École* program at ENSAE, as part of the dual-degree with *HEC Paris*. In Master 2, I specialized in DSSA (Data Science, Statistics, and Learning). Main courses included:
 
 * Statistics (Classical, High-Dimensional, and Bayesian)  
 * Theoretical Foundations of Machine Learning  
@@ -51,32 +51,58 @@ Between 2021 and 2025, I completed the *Grande École* program at ENSAE, within 
 
 ---
 
-## Research Experiences
+# Research Experiences
 
 ### **Centre de Mathématiques Appliquées (CMAP)** – *École Polytechnique, France*  
 **Supervisors:** Prof. Charles-Albert Lehalle & Prof. Huyên Pham  
 
 **Project:** *Robust Learning of Market Impact in the Optimal Execution Problem*  
-- Investigated the interplay between **optimal execution**, **market impact**, and **causal inference** in continuous-time auction models.  
-- Developed **robust learning methods** for modeling the *mechanical market impact* in **limit order books**, combining the paradigms of **Learning Using Privileged Information** and **Distributionally Robust Optimization**.  
+- Investigated the interplay between *optimal execution*, *market impact*, and *causal inference* in continuous-time double auction models.  
+- Developed *robust learning methods* for modeling the *mechanical market impact* in *limit order books*, combining the paradigms of **Learning Using Privileged Information** and **Distributionally Robust Optimization**.  
 ---
 
-#### **Imperial College London** – *Department of Mathematics*  
+### **Imperial College London** – *Department of Mathematics*  
 **Supervisor:** Prof. O. Deniz Akyildiz  
 
 **Project:** *Interacting Langevin Diffusions and Their Applications in Bayesian Statistics*  
 - Designed a **novel algorithm based on Annealed Langevin Dynamics** to improve sampling efficiency and convergence in Bayesian inference.  
-- Applied the method to **latent variable models** and **Maximum Marginal Likelihood Estimation (MMLE)** problems.  
-- Conducted comprehensive numerical experiments in Python, demonstrating significant **performance gains over classical methods**.
+- Applied the method to *latent variable models* and *Maximum Marginal Likelihood Estimation (MMLE)* problems.  
+- Conducted comprehensive numerical experiments in Python, demonstrating significant *performance gains over classical methods*.
 ---
 
-#### **Société Générale** – *Applied Statistics Project (M1 ENSAE)*  
+### **Société Générale** – *Applied Statistics Project (M1 ENSAE)*  
 
 **Project:** *Characterizing Overfitting Machine Learning Models for Financial Asset Performance Predictions*  
 - Conducted a comparative analysis of multiple machine learning techniques for portfolio construction, assessing
 their overfitting risks and performance on test datasets. Included methods like Markowitz optimization
 - Developed Python-based tools to systematically compare model performance, providing insights into the trade-offs
 between complexity and predictive accuracy in financial forecasting
+
+<div style="display:flex; flex-direction: row;">
+  <img align="left" width="150" height="150" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png">
+  <img align="center" width="150" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HEC_Paris.svg/2560px-HEC_Paris.svg.png">
+  <img align="center" width="250" height="100" src="https://upload.wikimedia.org/wikipedia/fr/f/fb/LOGOS_ENS-PARIS-SACLAY_UPSAY_2.png">
+</div>
+
+---
+---
+
+## 🌐 Connect with Me
+- 📧 [tom.rossa@stats.ox.ac.uk](mailto:tom.rossa@stats.ox.ac.uk)  
+- 🔗 [StatML Programme](https://statml.io)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tom-rossa/)  
+- 🧑‍🔬 [Google Scholar](https://scholar.google.com) *(to be added)*  
+
+---
+
+## ✅ Some Other Projects
+
+- Predicting the success of a video game based on the data available at its release - Python Project at ENSAE (here)
+  
+- Reproduced and analyzed numerical experiments from “On Multilevel Monte Carlo Unbiased Gradient Estimation For Deep Latent
+Variable Models” (Y. Shi & R. Cornish), comparing unbiased gradient estimators for LVMs in Stochastic Gradient Descent (here)
+
+- Linear time series project as part of a course at ENSAE. Involves the analysis and modeling of a time series using data from INSEE (here)
 
 ---
 
@@ -93,28 +119,3 @@ between complexity and predictive accuracy in financial forecasting
 
 ---
 
-<div style="display:flex; flex-direction: row;">
-  <img align="left" width="150" height="150" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png">
-  <img align="center" width="150" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HEC_Paris.svg/2560px-HEC_Paris.svg.png">
-  <img align="center" width="250" height="100" src="https://upload.wikimedia.org/wikipedia/fr/f/fb/LOGOS_ENS-PARIS-SACLAY_UPSAY_2.png">
-</div>
-
----
----
-
-## 🌐 Connect with Me
-- 📧 [tom.rossa@keble.ox.ac.uk](mailto:tom.rossa@keble.ox.ac.uk)  
-- 🔗 [StatML Programme](https://statml.io)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tom-rossa/)  
-- 🧑‍🔬 [Google Scholar](https://scholar.google.com) *(to be added)*  
-
----
-
-## ✅ Some Other Projects
-
-- Predicting the success of a video game based on the data available at its release - Python Project at ENSAE (here)
-  
-- Reproduced and analyzed numerical experiments from “On Multilevel Monte Carlo Unbiased Gradient Estimation For Deep Latent
-Variable Models” (Y. Shi & R. Cornish), comparing unbiased gradient estimators for LVMs in Stochastic Gradient Descent (here)
-
-- Linear time series project as part of a course at ENSAE. Involves the analysis and modeling of a time series using data from INSEE (here)
