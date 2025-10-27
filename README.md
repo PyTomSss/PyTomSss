@@ -1,10 +1,97 @@
+# Welcome to my Profile !
 
-# Welcome to my profile !
+# About Me 
 
-## About Me 
-I am currently pursuing a Master's degree at ENSAE (Institut Polytechnique de Paris) as part of a double diploma with HEC Paris, while simultaneously completing a Research Master's in Applied Mathematics and Machine Learning (MVA) at ENS Paris-Saclay.
+I am currently a **first-year PhD student** at the **University of Oxford**, within the **EPSRC Centre for Doctoral Training - StatML** ([StatML Cohort 2025](https://statml.io)), under the supervision of **Prof. Tom Rainforth**.  
 
-My focus this year has been on Computational Statistics, Data Science and Machine Learning. I have found the theoretical exploration of these topics highly engaging, and I am now keen to apply this knowledge through practical projects.
+My research interests lie at the intersection of **Bayesian Experimental Design**, **Bayesian Decision Theory**, and **Statistical Machine Learning**. Broadly, my work focuses on one of the central open questions in modern machine learning:  
+> *How can we design principled data acquisition solutions to improve learning efficiency and generalization?*  
+
+<div style="display:flex; justify-content:center; align-items:center;">
+  <img width="320" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/University_of_Oxford.svg/500px-University_of_Oxford.svg.png" alt="University of Oxford Logo"/>
+</div>
+
+---
+
+# Academic & Professional Background
+
+## Doctoral Studies
+**DPhil in Statistics**, *University of Oxford* (2025–present)  
+EPSRC CDT StatML — supervised by **Prof. Tom Rainforth**.  
+Focus: Bayesian Experimental Design
+
+---
+
+## Master’s Education
+
+**Research Master’s Degree in Mathematics, Vision, and Learning (MVA)** — *ENS Paris-Saclay*  
+
+Academic year 2024–2025, during which I strengthened my general programming skills and deepened my understanding of several areas of Machine Learning through courses such as:
+
+* Computational Optimal Transport (Prof. Gabriel Peyré)  
+* Computational Statistics (Prof. Stéphanie Allassonnière)  
+* Machine Learning for Time Series (Prof. Laurent Oudre)  
+* Sequential Learning (Prof. Pierre Gaillard)  
+* Graphical Models: Discrete Inference and Learning (Prof. Karteek Alahari)  
+* Interactions  
+
+---
+
+**Master in Engineering, ENSAE Paris** (*Institut Polytechnique de Paris*), specialization in **Statistics and Machine Learning**  
+
+Between 2021 and 2025, I completed the *Grande École* program at ENSAE, within the DSSA (Data Science, Statistics, and Learning) specialization. Main courses included:
+
+* Statistics (Classical, High-Dimensional, and Bayesian)  
+* Theoretical Foundations of Machine Learning  
+* Deep Learning  
+* Monte Carlo Methods and Simulation  
+* Stochastic Processes  
+* Econometrics  
+* Micro- and Macroeconomics  
+
+---
+
+## Research Experiences
+
+### **Centre de Mathématiques Appliquées (CMAP)** – *École Polytechnique, France*  
+**Supervisors:** Prof. Charles-Albert Lehalle & Prof. Huyên Pham  
+
+**Project:** *Robust Learning of Market Impact in the Optimal Execution Problem*  
+- Investigated the interplay between **optimal execution**, **market impact**, and **causal inference** in continuous-time auction models.  
+- Developed **robust learning methods** for modeling the *mechanical market impact* in **limit order books**, combining the paradigms of **Learning Using Privileged Information** and **Distributionally Robust Optimization**.  
+---
+
+#### **Imperial College London** – *Department of Mathematics*  
+**Supervisor:** Prof. O. Deniz Akyildiz  
+
+**Project:** *Interacting Langevin Diffusions and Their Applications in Bayesian Statistics*  
+- Designed a **novel algorithm based on Annealed Langevin Dynamics** to improve sampling efficiency and convergence in Bayesian inference.  
+- Applied the method to **latent variable models** and **Maximum Marginal Likelihood Estimation (MMLE)** problems.  
+- Conducted comprehensive numerical experiments in Python, demonstrating significant **performance gains over classical methods**.
+---
+
+#### **Société Générale** – *Applied Statistics Project (M1 ENSAE)*  
+
+**Project:** *Characterizing Overfitting Machine Learning Models for Financial Asset Performance Predictions*  
+- Conducted a comparative analysis of multiple machine learning techniques for portfolio construction, assessing
+their overfitting risks and performance on test datasets. Included methods like Markowitz optimization
+- Developed Python-based tools to systematically compare model performance, providing insights into the trade-offs
+between complexity and predictive accuracy in financial forecasting
+
+---
+
+## 💼 Industry Experience
+
+#### **Assurances du Crédit Mutuel** – *ALM Risk Analyst Intern*  
+- Developed a *pricing model for callable bonds* using stochastic calculus to estimate optimal exercise probabilities.  
+- Implemented the model in *VBA* and conducted backtesting procedures for integration within the *Solvency II risk framework*.
+
+---
+
+#### **Varenne Capital Partners** – *Merger Arbitrage Analyst Intern*  
+- Conducted R&D with two data analysts to design a *quantitative screening model* for M&A opportunities in mid- and small-cap markets.  
+
+---
 
 <div style="display:flex; flex-direction: row;">
   <img align="left" width="150" height="150" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png">
@@ -12,27 +99,18 @@ My focus this year has been on Computational Statistics, Data Science and Machin
   <img align="center" width="250" height="100" src="https://upload.wikimedia.org/wikipedia/fr/f/fb/LOGOS_ENS-PARIS-SACLAY_UPSAY_2.png">
 </div>
 
-## 🔗 Links and Contact
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-rossa-03aa2b212/)
+---
+---
 
-E-mail : tom.rossa@ensae.fr
+## 🌐 Connect with Me
+- 📧 [tom.rossa@keble.ox.ac.uk](mailto:tom.rossa@keble.ox.ac.uk)  
+- 🔗 [StatML Programme](https://statml.io)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tom-rossa/)  
+- 🧑‍🔬 [Google Scholar](https://scholar.google.com) *(to be added)*  
 
+---
 
-## 🛠 Skills
-Python - Webscrapping, Pandas, Numpy, Sklearn, Pytorch...
-
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
-Stata - Statistical Analysis & Econometrics
-
-[![Stata Badge](https://img.shields.io/badge/Stata-20CCB6?style=for-the-badge&logo=stata&logoColor=white)](https://www.stata.com/)
-
-SQL - Database Management
-
-[![SQL Badge](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-
-
-## ✅ Projects
+## ✅ Some Other Projects
 
 - Predicting the success of a video game based on the data available at its release - Python Project at ENSAE (here)
   
@@ -40,13 +118,3 @@ SQL - Database Management
 Variable Models” (Y. Shi & R. Cornish), comparing unbiased gradient estimators for LVMs in Stochastic Gradient Descent (here)
 
 - Linear time series project as part of a course at ENSAE. Involves the analysis and modeling of a time series using data from INSEE (here)
-
-
-## 💪 Work in progress
-
-- “Characterization of the overfitting risk in financial assets performance prediction models”, supervised by Philippe Dumont - ENSAE’s Applied Statistics project (here)
-
-- "Learning radiological and oncological anatomy through few-shot learning" - Data Challenge ENS by Raidium (here)
-
-- “Interacting Langevin diffusions and their applications in Bayesian statistics”, supervised by Professor O. Deniz Akyildiz at Imperial College (here)
-
